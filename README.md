@@ -41,7 +41,7 @@ chmod +x aws_resource_tracker.sh
 ./aws_resource_tracker.sh
 ```
 
-🧠 Key Learnings
+## 🧠 Key Learnings
 Infrastructure Visibility: Automating the discovery of cloud resources via CLI.
 
 Data Parsing: Using jq to extract specific values from complex JSON API responses.
