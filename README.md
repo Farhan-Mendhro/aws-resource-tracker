@@ -26,7 +26,7 @@ Before running the script, ensure your environment is configured:
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/Farhan-Mendhro/aws-resource-tracker.git](https://github.com/Farhan-Mendhro/aws-resource-tracker.git)
+   git clone [https://github.com/Farhan-Mendhro/aws-resource-tracker.git]
    cd aws-resource-tracker
    ```
 2. **Grant execution permissions:**
